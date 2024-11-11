@@ -2,10 +2,9 @@
 
 ## *Live Link : https://house-price-prediction-rajendraambati.streamlit.app/*
 
+Creating a house price prediction model and deploying it using Streamlit can be a rewarding project that showcases the power of machine learning in real estate. In this blog, I will guide you through the process of building this application, from data preparation to deployment.
 ![house_price_predictino home](https://github.com/user-attachments/assets/6612e9b6-586c-4ddd-8f8a-c95aa5766bdf)
 ![house_price_predictino prediction](https://github.com/user-attachments/assets/87d6ce1b-645b-4bb7-aeea-aa97d4d382d4)
-
-Creating a house price prediction model and deploying it using Streamlit can be a rewarding project that showcases the power of machine learning in real estate. In this blog, I will guide you through the process of building this application, from data preparation to deployment.
 
 # Project Overview
 The goal of this project is to predict house prices based on various features such as location, size, and demographics. We will use a dataset containing housing information from California and employ a linear regression model for predictions. Finally, we will deploy the application using Streamlit, making it accessible via a web interface.
