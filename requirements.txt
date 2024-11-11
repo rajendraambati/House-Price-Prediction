@@ -1,7 +1,7 @@
-streamlit=1.39.0
-pandas=2.2.3
-scikit-learn=1.5.2
-matplotlib=3.9.1
-seaborn=0.13.2
-base64=3.10.15
-pickle=0.7.5
+fastapi
+scikit-learn
+pandas
+matplotlib
+seaborn
+base64
+streamlit
