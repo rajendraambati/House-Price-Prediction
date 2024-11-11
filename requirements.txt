@@ -3,5 +3,4 @@ scikit-learn
 pandas
 matplotlib
 seaborn
-base64
 streamlit
